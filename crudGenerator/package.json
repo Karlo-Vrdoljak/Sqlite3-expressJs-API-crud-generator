@@ -1,0 +1,16 @@
+{
+  "name": "crudGenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "argParser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "5.0.0",
+    "clipboardy": "^2.3.0"
+  }
+}
