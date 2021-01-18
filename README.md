@@ -8,8 +8,6 @@ I have made this application for personal usage.
 If you find the need to clone/fork this project, feel free to do just that. 
 entry file to this app is **crud.js**, and it requires path parameters that are standardly denoted as --key [value]
 
-# Command
-
 ## Arguments
 * _ops_     
   'C' 'R' 'U' 'D' in any combination, you can leave out any one of them; *string*
